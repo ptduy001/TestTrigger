@@ -1,3 +1,5 @@
+package com.test;
+
 /**
  * Created by ptduy on 4/20/16.
  */
