@@ -1,2 +1,4 @@
 rootProject.name = 'TestTrigger'
 
+include 'module:module1'
+include 'module:module2'
